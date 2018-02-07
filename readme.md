@@ -11,6 +11,7 @@ git add readme.md  <<<< preparacion
 git commit -m "m es  mensaje commit iniciado" <<<< confirmacion
 git log  <<<< ver la confirmacion  te mostrara el hash
 para  salir q
+gemela
 
 ###zona  de  prepatacion
 *******AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
