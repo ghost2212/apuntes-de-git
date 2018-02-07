@@ -22,3 +22,4 @@ git add -pseguido por eagregar interactivo
 git difftool <commit>^ <commit> permite usar VS Code como editor de diferencias para cambios
 
 
+fsdfsdfsddd
