@@ -34,3 +34,7 @@ git show 7d79c03<< mostrar  la etiqueta y cambios
 git show confirmacion-sin-m
 
 git log --decorate --oneline << decorate  para  mostrar la etiqueta  en parentesis
+
+´git tag -l "v1.*"´
+
+muestra apartir de la version 1
