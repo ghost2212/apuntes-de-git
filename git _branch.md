@@ -26,3 +26,9 @@ git branch --merged << ver  las  ramas  que fusionado
 git branch -D testing<<< precaucion  elimina definitivo  
 
 la  rama  aunq  no haya  sido  fusionada
+
+### git_branch
+
+Una  rama git  apuntando un apuntador  movil apuntando  a uno de  los  commits.
+
+Puedo  crear  todas  las  ramas  que  quiera  y  o  nesecite
