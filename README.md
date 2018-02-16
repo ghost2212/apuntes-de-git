@@ -1,5 +1,5 @@
-## Curso Git desde cero
-###Flujo de  trabajo
+# Curso Git desde cero
+##Flujo de  trabajo
 en cmd
 C:\wamp64\www\cursogit>
 git init
@@ -13,7 +13,7 @@ git log  <<<< ver la confirmacion  te mostrara el hash
 para  salir q
 gemela
 
-###zona  de  prepatacion
+##zona  de  prepatacion
 *******AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
 Ejemplos de uso
 git rebase HEAD~3 -i permite rebase interactivo usando código VS
@@ -22,7 +22,5 @@ git add -pseguido por eagregar interactivo
 git difftool <commit>^ <commit> permite usar VS Code como editor de diferencias para cambios
 
 
-fsdfsdfsddd
-
-Esta  linea  fue creado en  la rama  master
+## Listos  para  invitar   a  otros d esarrolladores a  trabajar  en  nuestro  proyecto  git
 
