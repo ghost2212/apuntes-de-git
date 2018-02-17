@@ -1,4 +1,4 @@
-### git tag
+# git tag
 
 Lista  las  etiquetas  en  el orden  alfabetico
 
@@ -25,10 +25,12 @@ git show mi-etiqueta<< mostrar  la etiqueta y cambios
 
 
 crear etiqueta en cualquier puntos:
+
+´´´
 git log --oneline
 git tag confirmacion-sin-m 7d79c03
-git tag
-
+git tag´
+´´´
 
 git show 7d79c03<< mostrar  la etiqueta y cambios
 git show confirmacion-sin-m

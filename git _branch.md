@@ -1,4 +1,4 @@
-*******FUSIONES******
+# FUSIONES
   git merge
 git branch
 git branch -v<<< q  fue  lo ultimo q    hicimos  en  la  
@@ -27,7 +27,7 @@ git branch -D testing<<< precaucion  elimina definitivo
 
 la  rama  aunq  no haya  sido  fusionada
 
-### git_branch
+## git_branch
 
 Una  rama git  apuntando un apuntador  movil apuntando  a uno de  los  commits.
 

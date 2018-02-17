@@ -1,5 +1,5 @@
 # Curso Git desde cero
-##Flujo de  trabajo
+## Flujo de  trabajo
 en cmd
 C:\wamp64\www\cursogit>
 git init
@@ -13,8 +13,8 @@ git log  <<<< ver la confirmacion  te mostrara el hash
 para  salir q
 gemela
 
-##zona  de  prepatacion
-*******AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
+## zona  de  prepatacion
+******* AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
 Ejemplos de uso
 git rebase HEAD~3 -i permite rebase interactivo usando código VS
 git commit permite usar código VS para el mensaje de confirmación
