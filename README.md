@@ -24,3 +24,5 @@ git difftool <commit>^ <commit> permite usar VS Code como editor de diferencias 
 
 ## Listos  para  invitar   a  otros d esarrolladores a  trabajar  en  nuestro  proyecto  git
 
+## varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar varios repositorios remotos.
