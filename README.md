@@ -21,8 +21,5 @@ git commit permite usar código VS para el mensaje de confirmación
 git add -pseguido por eagregar interactivo
 git difftool <commit>^ <commit> permite usar VS Code como editor de diferencias para cambios
 
-
-## Listos  para  invitar   a  otros d esarrolladores a  trabajar  en  nuestro  proyecto  git
-
 ## varios repositorios remotos
 Podemos configurar un mismo proyecto para sincronizar varios repositorios remotos.
