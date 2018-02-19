@@ -14,7 +14,7 @@ para  salir q
 gemela
 
 ## zona  de  prepatacion
-******* AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
+AHORA  PARA  VER  EL  EDITOR     git config --list | grep editor
 Ejemplos de uso
 git rebase HEAD~3 -i permite rebase interactivo usando código VS
 git commit permite usar código VS para el mensaje de confirmación
