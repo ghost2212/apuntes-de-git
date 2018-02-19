@@ -36,5 +36,9 @@ Podemos configurar un mismo proyecto para sincronizar varios repositorios remoto
 
  4. Agregamos  la llave ssh generada a ssh-agent  ejecutamos  el comando `ssh-add /c/llaves-ssh/github-rsa `
 
- 5. Desde ahora podemos hacer pull y push sin que github nos este pidiendo cuenta  de  acceso
+ 5. Usaremos el comando : `cat /c/llaves-ssh/github-rsa.pub`  copiamos todo el texto 
+
+ 6. nos dirigimos a  github web perfil/setting/ssh and gpg new ssh  pegamos  y add ssh
+ 
+ 7. Desde ahora podemos hacer pull y push sin que github nos este pidiendo cuenta  de  acceso
  
